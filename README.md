@@ -73,3 +73,7 @@ Ausführen in Xcode mit **⌘U**.
 
 **Hagen Roth** – Informatikstudent an der HFT Stuttgart
 </content>
+
+<img width="645" height="1398" alt="Bildschirmfoto 2026-08-15 um 12 33 11" src="https://github.com/user-attachments/assets/3efba543-76f3-4954-9bce-aaa63a4aefa0" />
+
+<img width="645" height="1398" alt="Bildschirmfoto 2026-08-15 um 12 33 48" src="https://github.com/user-attachments/assets/fe1fa588-ab83-4bc2-a65e-4e3e176e3140" />
